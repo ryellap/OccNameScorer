@@ -16,7 +16,7 @@ A command line utility that will compute a score for a list of names.
 * `Compute.java` is the main class which reads the file path and prints the result
 * `Processor.java` is responsible for reading the file and creating Name objects for individual names.
 * `DefaultScoreCalculator.java` is where the score calculation is implemented via `IScoreCalculator.java` when another department want to use their own complex name scoring algorithm they have to implement this interface.
-* `Name.java` is the model representation of each name from input file.# rahul.nagendra2-gmail.com
+* `Name.java` is the model representation of each name from input file.
 
 ### Assumptions & Limitations
 * Assuming that all names are in English alphabets 
