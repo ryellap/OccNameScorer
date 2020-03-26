@@ -1,4 +1,4 @@
-##OCC Name score calculator
+# OCC Name score calculator
 
 A command line utility that will compute a score for a list of names.
 
